@@ -81,5 +81,114 @@
         "image": "./assets/pantys.jpg",
         "nombre": "pantys",
         "tipo": "pantys"
-        }
+        },
+        {
+            "id": 2,
+            "category": "woman",
+            "price": 28.00,
+            "sizes": [ "XS", "S", "M"],
+            "colors": ["Green"],
+            "image": "./assets/camiseta green.jpg",
+            "nombre":"emerald green blouse",
+            "tipo": "T-shirt"
+            },
+        {
+            "id": 3,
+            "category": "woman",
+            "price": 42.00,
+            "sizes": [ "XS", "S", "M", "L"],
+            "colors": ["black", "pink", "yellow"],
+            "image": "./assets/86e098c6b422e932ba5fa9da6dfac2af.jpg",
+            "nombre": "melanie black top",
+            "tipo": "T-shirt"
+            },
+            {"id": 4,
+            "category": "woman",
+            "price": 71.00,
+            "sizes": ["S", "M", "XL"],
+            "colors": ["white", "red"],
+            "image": "./assets/9f819e911e450045c8d0df1cffa0a2ee.jpg",
+            "nombre": "dhalia print dress",
+            "tipo": "dress"
+            },
+            {"id": 21,
+            "category": "socks",
+            "price": 10.00,
+            "sizes": ["S", "M", "L"],
+            "image": "./assets/medias1.jpg",
+            "nombre": "media 1"
+            
+            },
+            {"id": 22,
+            "category": "socks",
+            "price": 10.00,
+            "sizes": ["S", "M", "L"],
+            "image": "./assets/medias2.jpeg",
+            "nombre": "media 2"
+            
+            },
+            {"id": 23,
+            "category": "socks",
+            "price": 10.00,
+            "sizes": ["S", "M", "L"],
+            "image": "./assets/medias3.jpeg",
+            "nombre": "media 3"
+            
+            },
+            {"id": 24,
+            "category": "socks",
+            "price": 10.00,
+            "sizes": ["S", "M", "L"],
+            "image": "./assets/medias4.jpeg.jpg",
+            "nombre": "media 4"
+            
+            },
+            {"id": 25,
+            "category": "socks",
+            "price": 10.00,
+            "sizes": ["S", "M", "L"],
+            "image": "./assets/medias5.jpeg",
+            "nombre": "media 5"
+            
+            },
+            {"id": 26,
+            "category": "socks",
+            "price": 10.00,
+            "sizes": ["S", "M", "L"],
+            "image": "./assets/medias6.jpeg",
+            "nombre": "media 6"
+            
+            },
+            {"id": 27,
+            "category": "socks",
+            "price": 10.00,
+            "sizes": ["S", "M", "L"],
+            "image": "./assets/medias7.jpeg",
+            "nombre": "media 7"
+            
+            },
+            {"id": 28,
+            "category": "socks",
+            "price": 10.00,
+            "sizes": ["S", "M", "L"],
+            "image": "./assets/medias8.jpeg",
+            "nombre": "media 8"
+            
+            },
+            {"id": 29,
+            "category": "socks",
+            "price": 10.00,
+            "sizes": ["S", "M", "L"],
+            "image": "./assets/medias9.jpeg",
+            "nombre": "media 9"
+            
+            },
+            {"id": 30,
+            "category": "socks",
+            "price": 10.00,
+            "sizes": ["S", "M", "L"],
+            "image": "./assets/medias10.jpeg",
+            "nombre": "media 10"
+            
+            }   
   ]
